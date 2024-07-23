@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD_dienthoai</string>
+    <string-array name="producer">
+        <item>Apple</item>
+        <item>Samsung</item>
+        <item>Oppo</item>
+        <item>Nokia</item>
+    </string-array>
+</resources>
